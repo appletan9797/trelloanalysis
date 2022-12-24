@@ -1,0 +1,418 @@
+{
+    "Apple": [
+        {
+            "id": "63881abf82cf1a044e348ef8",
+            "dateLastActivity": "2022-12-01T09:10:24.338Z",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "idLabels": [
+              "63881b251eba9201119edc5e",
+              "609f4886d41eeff1faf7ff13"
+            ],
+            "idList": "609f4914f35fcb6faf2af8b2",
+            "idMembers": [
+              "5b6135a34ba70a621ce3e4e9"
+            ],
+            "labels": [
+              {
+                "id": "63881b251eba9201119edc5e",
+                "idBoard": "609f488638122f7a82bf31b4",
+                "name": "Article",
+                "color": "blue"
+              },
+              {
+                "id": "609f4886d41eeff1faf7ff13",
+                "idBoard": "609f488638122f7a82bf31b4",
+                "name": "Done",
+                "color": "green"
+              }
+            ],
+            "name": "What you Need to Know about Complex React Architecture",
+            "updatedListName": "Done",
+            "startdate": "2022-12-01T03:08:47.367Z",
+            "completedate": "2022-12-01T09:10:24.291Z"
+        },
+        {
+          "id": "63881abf82cf1a044e348ef8",
+          "dateLastActivity": "2022-12-01T09:10:24.338Z",
+          "idBoard": "609f488638122f7a82bf31b4",
+          "idLabels": [
+            "63881b251eba9201119edc5e",
+            "609f4886d41eeff1faf7ff13"
+          ],
+          "idList": "609f4914f35fcb6faf2af8b2",
+          "idMembers": [
+            "5b6135a34ba70a621ce3e4e9"
+          ],
+          "labels": [
+            {
+              "id": "63881b251eba9201119edc5e",
+              "idBoard": "609f488638122f7a82bf31b4",
+              "name": "Article",
+              "color": "blue"
+            },
+            {
+              "id": "609f4886d41eeff1faf7ff13",
+              "idBoard": "609f488638122f7a82bf31b4",
+              "name": "Done",
+              "color": "green"
+            }
+          ],
+          "name": "What you Need to Know about Complex React Architecture",
+          "updatedListName": "Done",
+          "startdate": "2022-12-10T03:08:47.367Z",
+          "completedate": "2022-12-12T05:08:47.367Z"
+        }
+    ],
+    "Eddie": [
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-01T03:08:47.367Z",
+        "completedate": "2022-12-01T09:10:24.291Z"
+      },
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-03T05:08:47.367Z",
+        "completedate": "2022-12-03T09:10:24.291Z"
+      }
+    ],
+    "Jinx": [
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-01T03:08:47.367Z",
+        "completedate": "2022-12-01T09:10:24.291Z"
+      },
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-01T01:08:47.367Z",
+        "completedate": "2022-12-02T02:00:24.291Z"
+      },
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-11T03:08:47.367Z",
+        "completedate": "2022-12-11T09:10:24.291Z"
+      }
+    ],
+    "Kos": [
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-13T01:08:47.367Z",
+        "completedate": "2022-12-13T09:10:24.291Z"
+      },
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-01T03:08:47.367Z",
+        "completedate": "2022-12-01T09:10:24.291Z"
+      },
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-11T09:08:47.367Z",
+        "completedate": "2022-12-11T12:10:24.291Z"
+      }
+    ],
+    "Steve": [
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-01T03:08:47.367Z",
+        "completedate": "2022-12-01T09:10:24.291Z"
+      },
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-02T03:08:47.367Z",
+        "completedate": "2022-12-03T09:10:24.291Z"
+      }
+    ],
+    "Wendy": [
+      {
+        "id": "63881abf82cf1a044e348ef8",
+        "dateLastActivity": "2022-12-01T09:10:24.338Z",
+        "idBoard": "609f488638122f7a82bf31b4",
+        "idLabels": [
+          "63881b251eba9201119edc5e",
+          "609f4886d41eeff1faf7ff13"
+        ],
+        "idList": "609f4914f35fcb6faf2af8b2",
+        "idMembers": [
+          "5b6135a34ba70a621ce3e4e9"
+        ],
+        "labels": [
+          {
+            "id": "63881b251eba9201119edc5e",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Article",
+            "color": "blue"
+          },
+          {
+            "id": "609f4886d41eeff1faf7ff13",
+            "idBoard": "609f488638122f7a82bf31b4",
+            "name": "Done",
+            "color": "green"
+          }
+        ],
+        "name": "What you Need to Know about Complex React Architecture",
+        "updatedListName": "Done",
+        "startdate": "2022-12-01T03:08:47.367Z",
+        "completedate": "2022-12-01T09:10:24.291Z"
+      }
+    ]
+}
+

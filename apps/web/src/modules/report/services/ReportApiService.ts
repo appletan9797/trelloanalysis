@@ -15,6 +15,10 @@ class ReportApiService {
         reportData = monthlyCreatedTasksGroupByLabelTransformer.transform(card);
         labels = monthlyCreatedTasksGroupByLabelTransformer.getLabels(card); 
     }
+    else if (cardData.chartID == 4){
+      reportData = card
+      labels = Object.keys(card)
+    }
     else{
       reportData = card
       labels = ["CardCompleted"]

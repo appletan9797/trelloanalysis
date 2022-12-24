@@ -1,4 +1,5 @@
 import { chartDataForUsers } from '../../../data/data-charts-of-user';
+import { CycleTimeOfCompletedCards } from '../../chart-templates/components/CycleTimeOfCompletedCards';
 import { MonthlyCreatedTasksGroupByLabel } from '../../chart-templates/components/MonthlyCreatedTasksGroupByLabel';
 import { NavigationMenu } from '../../chart-templates/components/NavigationMenu';
 import { reportApiService } from '../services/ReportApiService';
@@ -24,7 +25,10 @@ export const MyChartDetails = ({result,labels,chart}) => {
     return (
         <div> 
         <NavigationMenu />
+        {chart.chartID == 4 ? 
+        <CycleTimeOfCompletedCards result={result} labels={labels} chartinfo={chart} /> :
         <MonthlyCreatedTasksGroupByLabel result={result} labels={labels} chartinfo={chart} />
+        }
         </div>
     );
 };

@@ -25,7 +25,7 @@ type GroupedCard = {
 };
 
 class CardService {
-  appendDetailInfo(cards: Card[], actions: Action[], lists: List[]) {
+  appendDetailInfo(cards: Card[], actions: Action[], lists: List[]) {   
     let updatedCards = this.appendListName(cards, lists)
     
     updatedCards = this.filterCardDone(updatedCards)
@@ -55,22 +55,18 @@ class CardService {
   }
 
   appendDoneDate(updatedCards:Card[], actions: Action[]){
-    const res = actions.filter(action =>
-      action.type === "updateCard"&&
-      action.data.hasOwnProperty("listAfter") &&
-      action.data.listAfter.name === "Done"
-    )
-    
+
+    const cardGroupByAction = _.groupBy(actions, 'data.card.id');
+
     return updatedCards.map(card =>{
-      const action = res.find(action=>
-        action.data.card.id == card.id
-      )
+      const cardActions = cardGroupByAction[card.id]
+      const sortedActions = _.sortBy(cardActions,"date")
     
-    return{
-      ...card,
-      completedate:action.date
-     }
-    })
+      return{
+        ...card,
+        completedate: sortedActions[0]?.date
+      }
+    }) 
   }
 
   filterByDateRange(updatedCards: Card[], fromDate: string, toDate: string) {
